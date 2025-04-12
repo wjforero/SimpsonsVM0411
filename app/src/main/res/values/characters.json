@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "name": "Homero Simpson",
+    "description": "Homero J. Simpson es el patriarca de la familia Simpson. Es un hombre de mediana edad, con sobrepeso, calvo y un tanto torpe, que trabaja como inspector de seguridad en la Planta Nuclear de Springfield. A pesar de su baja inteligencia y falta de motivación, tiene un gran corazón y ama profundamente a su familia, aunque a veces lo demuestre de maneras poco convencionales.",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png"
+  },
+  {
+    "id": "2",
+    "name": "Marge Simpson",
+    "description": "Marjorie 'Marge' Bouvier Simpson es la amorosa y paciente matriarca de la familia Simpson. Con su icónico cabello azul, es la voz de la razón en el hogar. Marge es una ama de casa devota y madre abnegada que siempre busca mantener la armonía en su familia, a pesar de las excentricidades de sus miembros.",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/0/0b/Marge_Simpson.png"
+  },
+  {
+    "id": "3",
+    "name": "Bart Simpson",
+    "description": "Bartholomew 'Bart' Jojo Simpson es el travieso y rebelde hijo mayor de la familia Simpson. Con su emblemática patineta y su actitud irreverente, Bart es el bromista por excelencia de Springfield. Siempre buscando meterse en problemas, aunque en el fondo tiene un buen corazón.",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png"
+  },
+  {
+    "id": "4",
+    "name": "Lisa Simpson",
+    "description": "Lisa Marie Simpson es la inteligente, precoz y moralmente consciente hija mediana de la familia Simpson. Amante del jazz y la lectura, Lisa es una niña superdotada que a menudo se siente incomprendida por su familia y su entorno, pero siempre se esfuerza por hacer lo correcto.",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/e/ec/Lisa_Simpson.png"
+  },
+  {
+    "id": "5",
+    "name": "Maggie Simpson",
+    "description": "Margaret 'Maggie' Simpson es la adorable y silenciosa hija menor de la familia Simpson. Aunque es solo una bebé, Maggie ha demostrado ser sorprendentemente astuta e independiente, y se le ha visto en ocasiones resolviendo problemas o protegiendo a su familia.",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/9/9d/Maggie_Simpson.png"
+  },
+  {
+    "id": "6",
+    "name": "Abraham Simpson",
+    "description": "Abraham 'Abuelo' Simpson es el anciano y a veces confundido padre de Homero Simpson. Veterano de guerra, Abraham es conocido por sus largas historias, su tendencia a divagar y su mal genio. A pesar de su senilidad, ama profundamente a su familia.",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/f/fd/Grampa_Simpson.png"
+  },
+  {
+    "id": "7",
+    "name": "Krusty el Payaso",
+    "description": "Herschel Shmoikel Pinchas Yerucham Krustofsky, más conocido como Krusty el Payaso, es un cómico y presentador de televisión que tiene su propio programa en Springfield. A pesar de su popularidad, Krusty es un personaje cínico, adicto y con una vida personal desastrosa.",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/b/bb/Krustytheclown.png"
+  },
+  {
+    "id": "8",
+    "name": "Montgomery Burns",
+    "description": "Charles Montgomery Burns es el despiadado y avaro dueño de la Planta Nuclear de Springfield. Es uno de los ciudadanos más ricos y poderosos de la ciudad, conocido por su crueldad, su codicia y su deseo de aumentar su riqueza a cualquier costo.",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/7/77/Charles_Montgomery_Burns.png"
+  },
+  {
+    "id": "9",
+    "name": "Ned Flanders",
+    "description": "Nedward 'Ned' Flanders es el vecino de al lado de los Simpson. Es un hombre extremadamente religioso, amable y optimista. Ned es conocido por su paciencia infinita, su fe inquebrantable y su peculiar jerga, que incluye frases como '¡Hola, holita!'",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/2/2c/Ned_Flanders.png"
+  },
+  {
+    "id": "10",
+    "name": "Jefe Gorgory",
+    "description": "Clancy Gorgory, más conocido como el Jefe Gorgory, es el jefe de policía de Springfield. Es un hombre obeso, inepto y a menudo corrupto. A pesar de su incompetencia, Gorgory es una figura de autoridad en la ciudad, aunque no siempre sea respetado.",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/2/20/Chief_Wiggum.png"
+  },
+  {
+    "id": "11",
+    "name": "Moe Szyslak",
+    "description": "Moe Szyslak es el dueño y camarero del Bar de Moe, el bar favorito de Homero Simpson. Es un hombre amargado, solitario y desafortunado en el amor. Moe es conocido por su voz ronca, su aspecto poco atractivo y sus dudosos negocios.",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Moe_Szyslak.png/220px-Moe_Szyslak.png"
+  },
+  {
+    "id": "12",
+    "name": "Apu Nahasapeemapetilon",
+    "description": "Apu Nahasapeemapetilon es el dueño del Badulaque, una tienda de conveniencia en Springfield. Es un inmigrante indio, trabajador y muy educado. Apu es conocido por su ética de trabajo, su gran familia y su peculiar forma de hablar.",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/2/28/Apu_Nahasapeemapetilon.png"
+  },
+  {
+    "id": "13",
+    "name": "Seymour Skinner",
+    "description": "Seymour Skinner es el director de la Escuela Primaria de Springfield. Es un hombre estricto, autoritario y a menudo inseguro. Skinner vive con su madre, Agnes, y lucha constantemente por mantener el control en la caótica escuela.",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Seymour_Skinner.png/220px-Seymour_Skinner.png"
+  },
+  {
+    "id": "14",
+    "name": "Barney Gumble",
+    "description": "Barney Gumble es el mejor amigo de Homero Simpson y un alcohólico crónico. Aunque una vez fue un hombre brillante, Barney se ha convertido en un habitante del Bar de Moe, pasando sus días bebiendo y eructando.",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Barney_Gumble.png/220px-Barney_Gumble.png"
+  },
+  {
+    "id": "15",
+    "name": "Edna Krabappel",
+    "description": "Edna Krabappel es la maestra de cuarto grado de Bart Simpson en la Escuela Primaria de Springfield. Es una mujer cansada y cínica, que ha perdido la esperanza en la educación y se ha resignado a su destino como maestra.",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Edna_Krabappel.png/200px-Edna_Krabappel.png"
+  },
+  {
+    "id": "16",
+    "name": "Ralph Gorgory",
+    "description": "Ralph Gorgory es el hijo del Jefe Gorgory y uno de los compañeros de clase de Lisa Simpson. Es un niño ingenuo, tonto y a menudo despistado, conocido por sus frases sin sentido y su particular manera de ser.",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/1/14/Ralph_Wiggum.png"
+  }
+]
