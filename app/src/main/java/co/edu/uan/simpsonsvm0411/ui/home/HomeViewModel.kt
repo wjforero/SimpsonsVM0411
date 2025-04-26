@@ -19,11 +19,7 @@ class HomeViewModel(val app: Application) : AndroidViewModel(app) {
     val text: LiveData<String> = _text
 
     fun getCharacters() {
-        val db = Room.databaseBuilder(
-            app,
-            SimpsonsDatabase::class.java,
-            "simpsons_db"
-        ).build()
+        val db = SimpsonsDatabase.getDatabase(app)
         viewModelScope.launch() {
             val characters =db.getCharacterDao().readALl()
             _text.value = characters.toString()
@@ -32,11 +28,7 @@ class HomeViewModel(val app: Application) : AndroidViewModel(app) {
     }
 
     fun saveCharacter(name: String) {
-        val db = Room.databaseBuilder(
-            app,
-            SimpsonsDatabase::class.java,
-            "simpsons_db"
-        ).build()
+        val db = SimpsonsDatabase.getDatabase(app)
         viewModelScope.launch() {
             db.getCharacterDao().createCharacter(Character(name=name, description = "desc", photo = "url"))
         }

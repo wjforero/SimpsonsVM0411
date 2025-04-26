@@ -16,12 +16,12 @@ interface CharacterDao {
     @Query("SELECT * FROM characters")
     suspend fun readALl() : List<Character>
     @Query("SELECT * FROM characters WHERE name = :nombre")
-    fun readByName(nombre: String) : Character
+    suspend fun readByName(nombre: String) : Character
     // UPDATE
     @Update
-    fun modifyCharacter(character: Character)
+    suspend fun modifyCharacter(character: Character)
     // DELETE
     @Delete
-    fun removeCharacter(character: Character)
+    suspend fun removeCharacter(character: Character)
 
 }
